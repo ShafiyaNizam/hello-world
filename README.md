@@ -1,2 +1,6 @@
 # hello-world
-my journey with github starts...
+ hi techies,
+ I am shafiya
+ Just begin my journey with github
+ Want to know more about github.
+ Guide me please.
